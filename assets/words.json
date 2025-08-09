@@ -1,0 +1,74 @@
+[
+  {
+    "word": "chat",
+    "options": [
+      "chat",
+      "chien",
+      "chaud",
+      "chou"
+    ]
+  },
+  {
+    "word": "chien",
+    "options": [
+      "chien",
+      "chat",
+      "chaud",
+      "chou"
+    ]
+  },
+  {
+    "word": "rouge",
+    "options": [
+      "rouge",
+      "rose",
+      "noir",
+      "bleu"
+    ]
+  },
+  {
+    "word": "lune",
+    "options": [
+      "lune",
+      "soleil",
+      "étoile",
+      "nuage"
+    ]
+  },
+  {
+    "word": "papa",
+    "options": [
+      "papa",
+      "maman",
+      "bébé",
+      "ami"
+    ]
+  },
+  {
+    "word": "maman",
+    "options": [
+      "maman",
+      "papa",
+      "grand",
+      "petit"
+    ]
+  },
+  {
+    "word": "eau",
+    "options": [
+      "eau",
+      "feu",
+      "air",
+      "terre"
+    ]
+  },
+  {
+    "word": "pain",
+    "options": [
+      "pain",
+      "vin",
+      "fromage",
+      "lait"
+    ]
+  }
+]
